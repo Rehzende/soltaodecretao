@@ -1,0 +1,24 @@
+{
+    "dias_liberados": {
+      "resposta_padrao": [
+        "Bora Patrão!!",
+        "Vamos Dale"
+      ],
+      "resposta_muito_cedo": [
+        "Olha a hora, tá maluco?"
+      ],
+      "gifs": [
+        "https://google.com"
+      ]
+    },
+    "dias_nao_liberados": {
+      "resposta_padrao": [
+        "Olha a hor!!",
+        "Vamos Dale"
+      ],
+      "gifs": [
+        "https://google.com"
+      ]
+    }
+  }
+  

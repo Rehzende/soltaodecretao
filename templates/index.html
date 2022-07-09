@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div className="item">
+    <h3 class="title">Libera o decreto hoje??</h3>
+    <h2 id="text">{{ message }}</h2>
+
+    <a className="space-btn" href="{{ url_for('index') }}">TENTE NOVAMENTE</a>
+  </div>
+{% endblock %}
