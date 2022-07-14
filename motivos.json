@@ -1,26 +1,31 @@
 {
-    "dias_liberados": {
-      "resposta_padrao": [
-        "Bora Patrão!!",
-        "Vamos Dale",
-        "Sextouuuu",
-        "Eita, só vamos"
-      ],
-      "resposta_muito_cedo": [
-        "Olha a hora, tá maluco?"
-      ],
-      "gifs": [
-        "https://google.com"
-      ]
-    },
-    "dias_nao_liberados": {
-      "resposta_padrao": [
-        "Olha a hor!!",
-        "Vamos Dale"
-      ],
-      "gifs": [
-        "https://google.com"
-      ]
-    }
+  "dias_liberados": {
+    "resposta_padrao": [
+      "Bora Patrão!!",
+      "Vamos Dale",
+      "Sextouuuu",
+      "Eita, só vamos"
+    ],
+    "resposta_muito_cedo": [
+      "Olha a hora, tá maluco?"
+    ],
+    "gifs": [
+      "https://google.com"
+    ]
+  },
+  "dias_nao_liberados": {
+    "resposta_padrao": [
+      "Olha a hora!!",
+      "Segura sua onda",
+      "Não!",
+      "Só mais uns dias",
+      "Não recomendo",
+      "Hoje não",
+      "Não",
+      "Não. Respire e conte até 10, comece de novo"
+    ],
+    "gifs": [
+      "https://google.com"
+    ]
   }
-  
+}
